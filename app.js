@@ -1,3 +1,1 @@
-if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("sw.js");
-}
+console.log("Dental Knowledge OS loaded");
